@@ -1,6 +1,12 @@
-# ChurnWhisperer
+<div align="center">
+
+# 📊 ChurnWhisperer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Victor-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorcabrejos/)
+
+## *Intelligent Customer Retention • AI-Powered Analytics • Telecom Solutions*
+
+</div>
 
 A modern web application for telecom customer churn prediction with AI explanations.
 
